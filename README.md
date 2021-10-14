@@ -3,7 +3,6 @@
 - 👀 I’m interested in Web Development, specially Backend Development and Databases
 - 🌱 I’m excelled in:
   * HTML5, CSS3, JavaScript, JQuery
-  * AngularJS
   * NodeJS, PHP
   * NoSQL DB like MongoDB, Firebase and SQL DB like MySQL, PHPMyAdmin
   * Hosting services in AWS, GoDaddy, BigRock
